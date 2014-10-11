@@ -16,4 +16,4 @@ Try to:
 -------
 * Support all browser including IE9
 * Use Bootstrap as much as possible
-* Try to get a Siplecov codecoverage of at least 60%.
+* Get a Siplecov codecoverage of at least 60%.
